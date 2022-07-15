@@ -1,0 +1,23 @@
+{
+  "name": "docpractice",
+  "version": "1.0.0",
+  "description": "Docker Practice",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Monika380/DocPractice.git"
+  },
+  "author": "mk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Monika380/DocPractice/issues"
+  },
+  "homepage": "https://github.com/Monika380/DocPractice#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
